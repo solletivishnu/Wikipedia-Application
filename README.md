@@ -35,4 +35,5 @@ his application is a simple Wikipedia search tool that allows users to search fo
 
 # Screenshot of the Project
 
-https://github.com/solletivishnu/Wikipedia-Application/issues/1#issue-2797494333
+![Image](https://github.com/user-attachments/assets/87aecfb0-783b-42cf-bf25-9e62c6560616)
+![Image](https://github.com/user-attachments/assets/1871aac6-7ae7-4045-8e49-25b0abca9be0)

@@ -1,7 +1,7 @@
 # WikiPedia Application
 
 ## Overview
-his application is a simple Wikipedia search tool that allows users to search for content directly from Wikipedia using an API. When a user types a query in the search input field and presses "Enter," the app fetches relevant results from the Wikipedia Search API and displays them dynamically on the webpage. It includes a spinner to indicate loading and ensures a seamless user experience.
+This application is a simple Wikipedia search tool that allows users to search for content directly from Wikipedia using an API. When a user types a query in the search input field and presses "Enter," the app fetches relevant results from the Wikipedia Search API and displays them dynamically on the webpage. It includes a spinner to indicate loading and ensures a seamless user experience.
 
 ## Features
 ### Dynamic Search Results
